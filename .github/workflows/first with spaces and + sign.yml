@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: first with spaces
+name: first with spaces and + sign
 
 on:
   workflow_dispatch:
