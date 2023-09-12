@@ -8,7 +8,7 @@ on:
   workflow_run:
     workflows: 
       - "first with spaces"
-      - "first with spaces and + sign"
+      - "first with spaces and \+ sign"
       - first_no_spaces
     types:
       - completed
